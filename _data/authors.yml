@@ -1,0 +1,19 @@
+# Authors
+
+Name Name:
+  name        : "Jacob Coffee"
+  uri         : "https://scriptr.dev"
+  email       : "jacob@scriptr.dev"
+  bio         : "My research interests include artificial intelligence, cloud computing and programmable matter."
+  avatar      : "profile.jpg"
+  twitter     : "Sciptr"
+  google_plus : "Name"
+  linkedin    : "JacobCoffee"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
